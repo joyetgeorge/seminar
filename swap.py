@@ -2,7 +2,7 @@
 x = 10
 y = 5
 
-# swaping.....
+# swaping.......
 
 print(f"after swap x = {x}")
 print(f"after swap y = {y}")
