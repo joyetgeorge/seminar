@@ -2,9 +2,10 @@ void main()
 {
     int a = 2;
     int b = 8;
-    int temp;
 
-    //swapping....
+    int temp = a;
+    a = b;
+    b = temp;
 
 
     print("a = %d", &a);
