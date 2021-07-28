@@ -9,4 +9,6 @@ void main()
     a = b;
     b = temp;
     
+    print("a = %d", &a);
+    print("b = %d", &b);
 }
