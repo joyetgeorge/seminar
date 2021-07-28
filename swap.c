@@ -4,15 +4,7 @@ void main()
     int b = 8;
     int temp;
 
-    void swap(int *a, int *b)
-    {
-        temp = *a;
-        *a = *b;
-        *b = temp;
-    }
-    
-
-    swap(&a, &b)
+    //swapping....
 
 
     print("a = %d", &a);
