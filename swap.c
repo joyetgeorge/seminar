@@ -4,10 +4,12 @@ void main()
     int b = 8;
 
     //swapping....
-
-    int temp = a;
-    a = b;
-    b = temp;
+    int temp;
+     temp = a;
+     a = b;
+     b = temp;
+     
+    
 
 
     print("a = %d", &a);
